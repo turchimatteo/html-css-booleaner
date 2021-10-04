@@ -49,3 +49,31 @@
 .img-credit {
     font-size: 13px;
 }
+
+/* paragraph and list */
+.paragraph {
+    margin-top: 30px;
+    font-size: 18px;
+}
+.list {
+    margin-top: 30px;
+    font-size: 18px;
+    margin-left: 16px;
+}
+
+/* table */
+table {
+    margin-top: 30px;
+}
+thead {
+    width: 100%;
+    color: white;
+    background-color: #20a9e5;
+    text-align: left;
+}
+.shorter {
+    width: 60%;
+}
+.skyblue {
+    background-color: #b1e5f2;
+}
