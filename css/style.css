@@ -1,0 +1,23 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+
+/* HEADER */
+.logo {
+    width: 100%;
+    background-color: #4ea0ff ;
+    background-image: url("../img/pattern.png");
+    background-size: 25%;
+
+}
+
+#booleaner {
+    margin-top: 35px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    width: 200px;
+}
