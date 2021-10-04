@@ -77,3 +77,32 @@ thead {
 .skyblue {
     background-color: #b1e5f2;
 }
+
+/* FOOTER */
+.start-footer {
+    color: grey;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.first-transfer {
+    background-image: url("../img/monitor.jpg");
+    width: 350px;
+    height: 235px;  
+    font-size: 30px;  
+    margin-top: 20px;
+}
+.second-transfer {
+    background-image: url("../img/graph.jpg");
+    width: 350px;
+    height: 235px;  
+    font-size: 30px;  
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.lorem {
+    color: white;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 30px;
+}
